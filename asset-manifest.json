@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/name-suggestion-app/static/css/main.778b8dbb.css",
+    "main.js": "/name-suggestion-app/static/js/main.844788cc.js",
+    "index.html": "/name-suggestion-app/index.html",
+    "main.778b8dbb.css.map": "/name-suggestion-app/static/css/main.778b8dbb.css.map",
+    "main.844788cc.js.map": "/name-suggestion-app/static/js/main.844788cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778b8dbb.css",
+    "static/js/main.844788cc.js"
+  ]
+}
